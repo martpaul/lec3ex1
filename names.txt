@@ -1,6 +1,3 @@
 Paul Martino
-<<<<<<< HEAD
 Ben Bond
-Nate Bonham
-=======
->>>>>>> parent of 8295b08... added name
+Nate Bonham is the best human ever
